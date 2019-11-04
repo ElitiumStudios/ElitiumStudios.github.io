@@ -25,31 +25,6 @@ color: #00ffff;
 color: #fff;
 }
 
-.pack-text-font {
-font-family: 'Oswald', sans-serif;
-font-size: 25px;
-font-style: normal;
-text-transform: none;
-text-align: center;
-letter-spacing: 1px;
-color: #00ffff;
-}
-
-.pack-table-font {
-font-family: 'Oswald', sans-serif;
-font-size: 20px;
-font-style: normal;
-text-transform: none;
-letter-spacing: 1px;
-color: #00ffff;
-}
-.es-table {
-padding: 8px;
-line-height: 1.42857143;
-vertical-align: middle;
-border-top: 1px solid #ddd
-}
-
 @-webkit-keyframes glow {
     0% {
 		border-color: #34c5ba;
